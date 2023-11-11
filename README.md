@@ -1,4 +1,4 @@
-# Car Craze (Unity 2D)
+# Car Craze Game (Unity 2D)
 
 ## Description
 
